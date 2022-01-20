@@ -1,11 +1,11 @@
 
 body {
-  background-color: #35858B;
+  background-color: #4FBDBA;
 }
 hr {
   border-style: none;
   border-top-style: dotted;
-  border-color: grey;
+  border-color: #35858B;
   border-width: 5px;
   width: 5%;
 }
